@@ -1,0 +1,350 @@
+[
+  {
+    "list": [
+      {
+        "name": "感冒用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18135.png"
+      },
+      {
+        "name": "心脑血管用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18149.png"
+      },
+      {
+        "name": "胃肠用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18147.png"
+      },
+      {
+        "name": "风湿骨伤用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18132.png"
+      },
+      {
+        "name": "止咳化痰平喘药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18151.png"
+      },
+      {
+        "name": "清热药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18143.png"
+      },
+      {
+        "name": "五官科用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18148.png"
+      },
+      {
+        "name": "滋补营养药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18152.png"
+      },
+      {
+        "name": "儿科用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18131.png"
+      },
+      {
+        "name": "妇科用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18133.png"
+      },
+      {
+        "name": "皮肤用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18141.png"
+      },
+      {
+        "name": "泌尿系统用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18140.png"
+      },
+      {
+        "name": "肝胆用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18134.png"
+      },
+      {
+        "name": "血液系统用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18150.png"
+      },
+      {
+        "name": "激素和内分泌用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18136.png"
+      },
+      {
+        "name": "解热镇痛抗炎药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18137.png"
+      },
+      {
+        "name": "神经系统用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18144.png"
+      }
+    ],
+    "name": "中成药",
+    "isBoolean": true
+  },
+  {
+    "list": [
+      {
+        "name": "计生用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_12_12115.png"
+      },
+      {
+        "name": "计生用具",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_12_12114.png"
+      }
+    ],
+    "name": "计生用品",
+    "isBoolean": false
+  },
+  {
+    "list": [
+      {
+        "name": "日用百货",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_14_14117.png"
+      }
+    ],
+    "name": "日用百货",
+    "isBoolean": false
+  },
+  {
+    "list": [
+      {
+        "name": "医用卫生材料及敷料",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17130.png"
+      },
+      {
+        "name": "医用高分子材料及制品",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17129.png"
+      },
+      {
+        "name": "临床检验分析仪器",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17124.png"
+      },
+      {
+        "name": "普通诊察器械",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17125.png"
+      },
+      {
+        "name": "手术器械",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17127.png"
+      },
+      {
+        "name": "其它器械",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17126.png"
+      }
+    ],
+    "name": "医疗器械",
+    "isBoolean": false
+  },
+  {
+    "list": [
+      {
+        "name": "感冒用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18135.png"
+      },
+      {
+        "name": "心脑血管用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18149.png"
+      },
+      {
+        "name": "胃肠用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18147.png"
+      },
+      {
+        "name": "风湿骨伤用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18132.png"
+      },
+      {
+        "name": "止咳化痰平喘药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18151.png"
+      },
+      {
+        "name": "清热药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18143.png"
+      },
+      {
+        "name": "五官科用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18148.png"
+      },
+      {
+        "name": "滋补营养药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18152.png"
+      },
+      {
+        "name": "儿科用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18131.png"
+      },
+      {
+        "name": "妇科用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18133.png"
+      },
+      {
+        "name": "皮肤用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18141.png"
+      },
+      {
+        "name": "泌尿系统用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18140.png"
+      },
+      {
+        "name": "肝胆用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18134.png"
+      },
+      {
+        "name": "血液系统用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18150.png"
+      },
+      {
+        "name": "激素和内分泌用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18136.png"
+      },
+      {
+        "name": "解热镇痛抗炎药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18137.png"
+      },
+      {
+        "name": "神经系统用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_18_18144.png"
+      }
+    ],
+    "name": "西药",
+    "isBoolean": false
+  },
+  {
+    "list": [
+      {
+        "name": "计生用药",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_12_12115.png"
+      },
+      {
+        "name": "计生用具",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_12_12114.png"
+      }
+    ],
+    "name": "西药1",
+    "isBoolean": false
+  },
+  {
+    "list": [
+      {
+        "name": "日",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_14_14117.png"
+      }
+    ],
+    "name": "西药2",
+    "isBoolean": false
+  },
+  {
+    "list": [
+      {
+        "name": "医用",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17130.png"
+      },
+      {
+        "name": "医用高分子",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17129.png"
+      },
+      {
+        "name": "临床检验",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17124.png"
+      },
+      {
+        "name": "普通诊察",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17125.png"
+      },
+      {
+        "name": "手术",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17127.png"
+      },
+      {
+        "name": "其它",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17126.png"
+      }
+    ],
+    "name": "西药3",
+    "isBoolean": false
+  },
+  {
+    "list": [
+      {
+        "name": "医",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17130.png"
+      },
+      {
+        "name": "医用高分",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17129.png"
+      },
+      {
+        "name": "临床检",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17124.png"
+      },
+      {
+        "name": "普通诊",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17125.png"
+      },
+      {
+        "name": "手",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17127.png"
+      },
+      {
+        "name": "其",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17126.png"
+      }
+    ],
+    "name": "西药4",
+    "isBoolean": false
+  },
+  {
+    "list": [
+      {
+        "name": "医用22",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17130.png"
+      },
+      {
+        "name": "医用高分222子",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17129.png"
+      },
+      {
+        "name": "临床检验22",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17124.png"
+      },
+      {
+        "name": "普通诊察22",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17125.png"
+      },
+      {
+        "name": "手术22",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17127.png"
+      },
+      {
+        "name": "其它22",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17126.png"
+      }
+    ],
+    "name": "西药5",
+    "isBoolean": false
+  },
+  {
+    "list": [
+      {
+        "name": "医用77",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17130.png"
+      },
+      {
+        "name": "医用高分77子",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17129.png"
+      },
+      {
+        "name": "临床检77验",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17124.png"
+      }
+    ],
+    "name": "西药6",
+    "isBoolean": false
+  },
+  {
+    "list": [
+      {
+        "name": "医用77987",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17130.png"
+      },
+      {
+        "name": "医用高分77789子",
+        "imgsrc": "https://121.10.217.171:9002/_ui/desktop/common/cmyy/image/app_17_17129.png"
+      }
+    ],
+    "name": "西药7",
+    "isBoolean": false
+  }
+]
